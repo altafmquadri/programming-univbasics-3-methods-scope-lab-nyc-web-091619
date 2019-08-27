@@ -10,5 +10,10 @@ def toadstool
 end
 
 def link
-  warning = ""
+  warning = "It's Dangerous To Go Alone! Take This."
+  puts warning
+end
+
+def any_phrase(sentence)
+  return sentence
 end
