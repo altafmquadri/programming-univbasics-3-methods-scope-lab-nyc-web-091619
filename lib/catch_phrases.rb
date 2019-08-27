@@ -15,5 +15,6 @@ def link
 end
 
 def any_phrase(sentence)
-  return sentence
+  puts sentence
+  
 end
