@@ -16,5 +16,4 @@ end
 
 def any_phrase(sentence)
   puts sentence
-  
 end
